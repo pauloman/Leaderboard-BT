@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+  <title>Blind Test</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/leaderboard.css">
+  <table id="scores-table">
+    <thead>
+      <tr>
+        <th id="rank"></th>
+        <th id="rankEvolution"></th>
+        <th>Nom</th>
+        <th>Pts</th>
+        <th id="points"></th>
+        <th>Parties</th>
+      </tr>
+    </thead>
+    <tbody id="scores-body">
+    </tbody>
+  </table>
+
+  <script src="https://cdn.socket.io/4.6.0/socket.io.min.js"></script>
+  <script>
+    const socket = io(); // Connecte le client au serveur
+// Ecoute les événements de type "updateRanking" envoyés par le serveur
+  socket.on('updateRanking', (response) => {
+    //console.log(response);
+    $('#scores-body').empty();
+    response.forEach(function (player) {
+      let skillEvolutionClass = '';
+      if (parseInt(player.skillEvolution*10) > 0) {
+        skillEvolutionClass = 'positive';
+      } else if (parseInt(player.skillEvolution*10) < 0) {
+        skillEvolutionClass = 'negative';
+      }
+      let rankEvolutionClass = '';
+      if (player.rankEvolution.charAt(0)==='▲') {
+        rankEvolutionClass = 'positive';
+      } else if (player.rankEvolution.charAt(0)==='▼') {
+        rankEvolutionClass = 'negative';
+      }
+      if (player.name.length > 16) {
+        player.name = player.name.slice(0, 15) + '...';
+      }
+      player.score = player.score - 3*player.sigma;
+      $('#scores-body').append(
+        '<tr><td>' + player.rank + '</td><td class="' + rankEvolutionClass + '">' + player.rankEvolution + '</td><td>' + player.name + '</td><td>' + player.score.toFixed(1) + '</td><td class="' + skillEvolutionClass + '">' + player.skillEvolution + '</td><td>' + player.nbGames + '</td></tr>'
+      );
+    });
+  });
+
+  </script>
+</body>
+
+</html>
