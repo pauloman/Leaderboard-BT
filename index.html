@@ -23,35 +23,50 @@
     </tbody>
   </table>
 
-  <script src="https://cdn.socket.io/4.6.0/socket.io.min.js"></script>
   <script>
-    const socket = io(); // Connecte le client au serveur
-// Ecoute les événements de type "updateRanking" envoyés par le serveur
-  socket.on('updateRanking', (response) => {
-    //console.log(response);
-    $('#scores-body').empty();
-    response.forEach(function (player) {
-      let skillEvolutionClass = '';
-      if (parseInt(player.skillEvolution*10) > 0) {
-        skillEvolutionClass = 'positive';
-      } else if (parseInt(player.skillEvolution*10) < 0) {
-        skillEvolutionClass = 'negative';
-      }
-      let rankEvolutionClass = '';
-      if (player.rankEvolution.charAt(0)==='▲') {
-        rankEvolutionClass = 'positive';
-      } else if (player.rankEvolution.charAt(0)==='▼') {
-        rankEvolutionClass = 'negative';
-      }
-      if (player.name.length > 16) {
-        player.name = player.name.slice(0, 15) + '...';
-      }
-      player.score = player.score - 3*player.sigma;
-      $('#scores-body').append(
-        '<tr><td>' + player.rank + '</td><td class="' + rankEvolutionClass + '">' + player.rankEvolution + '</td><td>' + player.name + '</td><td>' + player.score.toFixed(1) + '</td><td class="' + skillEvolutionClass + '">' + player.skillEvolution + '</td><td>' + player.nbGames + '</td></tr>'
-      );
-    });
-  });
+    fetch('true-skill.json')
+      .then(response => response.json())
+      .then(data => {
+        $('#scores-body').empty();
+        data.activePlayers.forEach(function (player, index) {
+          let skillEvolutionClass = '';
+          if (parseInt(player.skillEvolution * 10) > 0) skillEvolutionClass = 'positive';
+          else if (parseInt(player.skillEvolution * 10) < 0) skillEvolutionClass = 'negative';
+
+          let rankEvolutionClass = '';
+          let rankEvolutionDisplay = '';
+          if (typeof player.rankEvolution === 'number') {
+            if (player.rankEvolution > 0) {
+              rankEvolutionClass = 'positive';
+              rankEvolutionDisplay = '▲' + player.rankEvolution;
+            } else if (player.rankEvolution < 0) {
+              rankEvolutionClass = 'negative';
+              rankEvolutionDisplay = '▼' + Math.abs(player.rankEvolution);
+            } else {
+              rankEvolutionDisplay = '–';
+            }
+          } else {
+            rankEvolutionDisplay = player.rankEvolution || '–';
+          }
+
+          if (player.name.length > 16) player.name = player.name.slice(0, 15) + '...';
+          player.score = player.score - 3 * player.sigma;
+
+          $('#scores-body').append(
+            `<tr>
+            <td>${index+1}</td>
+            <td class="${rankEvolutionClass}">${rankEvolutionDisplay}</td>
+            <td>${player.name}</td>
+            <td>${(player.skill[0] - 3 * player.skill[1]).toFixed(1)}</td>
+            <td class="${skillEvolutionClass}">${player.skillEvolution === 0
+              ? '–'
+              : Number(player.skillEvolution).toFixed(2)
+            }</td>
+            <td>${player.nbGames}</td>
+          </tr>`
+          );
+        });
+      });
 
   </script>
 </body>
