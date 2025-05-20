@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: 'Chalktastic';
+  src: url('/fonts/Chalktastic.otf') format('opentype');
+}
+
+#scores-table {
+    border-radius:20px;
+    background-color: black;
+    background-image: url("/images/background_ardoise2.jpg");
+    background-size: 100% 100%;
+    font-size: 1.2em;
+    color: cornsilk;
+    font-family: "Chalktastic", sans-serif;
+    margin: 0em;
+    border : 1px solid black;
+    border-spacing: 0px 5px;
+    text-align: center;
+}
+  
+#scores-table th:nth-child(2),
+#scores-table td:nth-child(2) {
+  text-align: left;
+  font-size: 1em;
+}
+
+#scores-table th:nth-child(5),
+#scores-table td:nth-child(5) {
+  padding-right: 20px;
+  font-size: 0.8em;
+}
+
+#scores-table th:nth-child(6),
+#scores-table td:nth-child(6) {
+  padding-right: 20px;
+}
+
+#scores-table td.positive {
+  color: rgb(0, 255, 0);
+}
+
+#scores-table td.negative {
+  color: red;
+}
+  
+  
+  
+  
