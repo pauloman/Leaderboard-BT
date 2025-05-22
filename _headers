@@ -1,0 +1,18 @@
+# Headers pour tous les fichiers JSON
+/*.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Cache-Control: no-cache
+
+# Headers spécifiques pour votre API
+/true-skill.json
+  Access-Control-Allow-Origin: https://extension-files.twitch.tv
+  Access-Control-Allow-Methods: GET
+  Access-Control-Allow-Headers: Content-Type
+  Cache-Control: max-age=300
+
+# Fallback pour tous les autres fichiers
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
