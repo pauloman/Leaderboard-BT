@@ -1,0 +1,28 @@
+{
+  "activePlayers": [
+    {
+      "name": "pauloman182",
+      "skill": [
+        26.735978598959,
+        6.1540160389512675
+      ],
+      "nbGames": 2,
+      "skillEvolution": 9.434739767616264,
+      "rankEvolution": 1,
+      "rank": 1,
+      "rankBefore": 1
+    },
+    {
+      "name": "RousseurAuMiel",
+      "skill": [
+        23.264021401041013,
+        6.1540160389512675
+      ],
+      "nbGames": 2,
+      "skillEvolution": -2.9307389143045945,
+      "rankEvolution": -1,
+      "rank": 2,
+      "rankBefore": 0
+    }
+  ]
+}
