@@ -63,24 +63,24 @@
     {
       "name": "pauloman182",
       "skill": [
-        31.29098225677125,
-        1.7417235080795708
+        31.07736324287497,
+        1.744388030585539
       ],
-      "rank": 1,
-      "nbGames": 1082,
-      "skillEvolution": 0.3321306709029983,
+      "rank": 2,
+      "nbGames": 1083,
+      "skillEvolution": 0.11051808948881359,
       "rankEvolution": 0,
       "rankBefore": 5
     },
     {
       "name": "RousseurAuMiel",
       "skill": [
-        30.21438489479041,
-        1.7266949985512055
+        30.874746908560738,
+        1.7447055226054073
       ],
-      "rank": 2,
-      "nbGames": 1115,
-      "skillEvolution": 0.5012977221307189,
+      "rank": 1,
+      "nbGames": 1116,
+      "skillEvolution": 1.1076281637384398,
       "rankEvolution": 0,
       "rankBefore": 6
     },
@@ -97,18 +97,6 @@
       "rankBefore": 7
     },
     {
-      "name": "airmus23",
-      "skill": [
-        27.39653855580583,
-        1.613318191496086
-      ],
-      "nbGames": 468,
-      "rank": 6,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rankBefore": 8
-    },
-    {
       "name": "gloriaetstephane",
       "skill": [
         30.45419697903679,
@@ -117,8 +105,20 @@
       "nbGames": 4,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rankBefore": 9
+    },
+    {
+      "name": "airmus23",
+      "skill": [
+        27.000929454683483,
+        1.648983519844358
+      ],
+      "nbGames": 469,
+      "rank": 3,
+      "skillEvolution": -0.5026050861671649,
+      "rankEvolution": -1,
+      "rankBefore": 8
     },
     {
       "name": "Numb25",
@@ -322,7 +322,7 @@
       "rank": 5,
       "skillEvolution": 0,
       "rankEvolution": 1,
-      "rankBefore": 27
+      "rankBefore": 26
     },
     {
       "name": "Zazima",
@@ -334,7 +334,7 @@
       "skillEvolution": -0.5428862844550935,
       "rankEvolution": -1,
       "rank": 4,
-      "rankBefore": 26
+      "rankBefore": 27
     },
     {
       "name": "padmee_skz",
