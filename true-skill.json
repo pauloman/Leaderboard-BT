@@ -3,12 +3,12 @@
     {
       "name": "PrinceYaku",
       "skill": [
-        45.4296142569765,
-        2.737255188127766
+        45.543445319249905,
+        2.7703180889268877
       ],
-      "nbGames": 712,
+      "nbGames": 713,
       "rank": 1,
-      "skillEvolution": 0,
+      "skillEvolution": 0.014642359876042121,
       "rankEvolution": 0,
       "rankBefore": 0
     },
@@ -63,24 +63,24 @@
     {
       "name": "pauloman182",
       "skill": [
-        30.912393235130914,
-        1.7262373911671245
+        30.724358076963362,
+        1.7215986934826364
       ],
-      "rank": 1,
-      "nbGames": 1080,
-      "skillEvolution": 0.2895442909992738,
+      "rank": 3,
+      "nbGames": 1081,
+      "skillEvolution": -0.17411906511408404,
       "rankEvolution": 0,
       "rankBefore": 5
     },
     {
       "name": "RousseurAuMiel",
       "skill": [
-        29.67748326606518,
-        1.714827029686368
+        30.337347113948244,
+        1.7249684699758365
       ],
       "rank": 2,
-      "nbGames": 1113,
-      "skillEvolution": -0.5201560743751301,
+      "nbGames": 1114,
+      "skillEvolution": 0.6294395270146609,
       "rankEvolution": 0,
       "rankBefore": 6
     },
@@ -145,18 +145,6 @@
       "rankBefore": 11
     },
     {
-      "name": "salmanosor",
-      "skill": [
-        24.948227326105393,
-        1.6831759478512134
-      ],
-      "nbGames": 28,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rank": 3,
-      "rankBefore": 12
-    },
-    {
       "name": "FLORA26",
       "skill": [
         25.022867755389242,
@@ -165,7 +153,7 @@
       "nbGames": 30,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rankBefore": 13
     },
     {
@@ -176,21 +164,33 @@
       ],
       "nbGames": 8,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 7,
       "rankBefore": 14
     },
     {
       "name": "kokommo87",
       "skill": [
-        24.10173151284347,
-        1.6693573369470835
+        24.24160212909478,
+        1.6735106379516451
       ],
-      "nbGames": 34,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
+      "nbGames": 35,
+      "skillEvolution": 0.12741071323762299,
+      "rankEvolution": 1,
       "rankBefore": 15,
-      "rank": 5
+      "rank": 4
+    },
+    {
+      "name": "salmanosor",
+      "skill": [
+        24.30411429675947,
+        1.7017163662496488
+      ],
+      "nbGames": 29,
+      "skillEvolution": -0.6997342845412291,
+      "rankEvolution": -3,
+      "rank": 5,
+      "rankBefore": 12
     },
     {
       "name": "DeChatelet",
