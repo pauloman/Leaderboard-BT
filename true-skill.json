@@ -63,24 +63,24 @@
     {
       "name": "RousseurAuMiel",
       "skill": [
-        31.058843066188143,
-        1.6787963111038398
+        30.950652195478142,
+        1.6792042047244533
       ],
-      "rank": 3,
-      "nbGames": 1131,
-      "skillEvolution": -0.6430823382669644,
+      "rank": 2,
+      "nbGames": 1132,
+      "skillEvolution": -0.7524968898388096,
       "rankEvolution": 0,
       "rankBefore": 5
     },
     {
       "name": "pauloman182",
       "skill": [
-        29.73379207490116,
-        1.6391908975563416
+        30.415066713841004,
+        1.6593081198494335
       ],
-      "rank": 2,
-      "nbGames": 1098,
-      "skillEvolution": 0.378157533904691,
+      "rank": 1,
+      "nbGames": 1099,
+      "skillEvolution": 0.9990805059652601,
       "rankEvolution": 0,
       "rankBefore": 6
     },
@@ -133,27 +133,15 @@
       "rankBefore": 10
     },
     {
-      "name": "coyotosore",
-      "skill": [
-        26.709900247849145,
-        1.995183635004185
-      ],
-      "nbGames": 9,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rankBefore": 11,
-      "rank": 1
-    },
-    {
       "name": "lecithal_",
       "skill": [
-        25.50319731785393,
-        1.7978264559428607
+        25.59824399554256,
+        1.7818816359139604
       ],
-      "nbGames": 14,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rank": 6,
+      "nbGames": 15,
+      "skillEvolution": 0.14288113777532985,
+      "rankEvolution": 1,
+      "rank": 3,
       "rankBefore": 12
     },
     {
@@ -164,9 +152,21 @@
       ],
       "nbGames": 45,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 4,
       "rankBefore": 13
+    },
+    {
+      "name": "coyotosore",
+      "skill": [
+        25.752493958483186,
+        1.9717964595665454
+      ],
+      "nbGames": 10,
+      "skillEvolution": -0.8872447630530402,
+      "rankEvolution": -2,
+      "rankBefore": 11,
+      "rank": 4
     },
     {
       "name": "FLORA26",
