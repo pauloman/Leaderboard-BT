@@ -61,39 +61,39 @@
       "rankBefore": 4
     },
     {
-      "name": "pauloman182",
+      "name": "RousseurAuMiel",
       "skill": [
-        31.3665314244372,
-        1.7200227234331826
+        31.47910452506509,
+        1.7187105958982973
       ],
       "rank": 2,
-      "nbGames": 1111,
-      "skillEvolution": 1.1075739186136744,
-      "rankEvolution": 1,
+      "nbGames": 1146,
+      "skillEvolution": -0.3872243906142323,
+      "rankEvolution": 0,
       "rankBefore": 6
     },
     {
-      "name": "RousseurAuMiel",
+      "name": "pauloman182",
       "skill": [
-        31.32884889339429,
-        1.7380370960983098
+        31.033681694433497,
+        1.6990560673081387
       ],
       "rank": 3,
-      "nbGames": 1145,
-      "skillEvolution": -0.5954595228850685,
-      "rankEvolution": -1,
+      "nbGames": 1112,
+      "skillEvolution": 0.8376241569851004,
+      "rankEvolution": 0,
       "rankBefore": 5
     },
     {
       "name": "lecithal_",
       "skill": [
-        29.541956484904407,
-        1.7415086746712383
+        30.49093499570283,
+        1.741517971134282
       ],
-      "nbGames": 23,
-      "skillEvolution": -0.3679906589074662,
+      "nbGames": 24,
+      "skillEvolution": 0.5809599625018258,
       "rankEvolution": 0,
-      "rank": 4,
+      "rank": 1,
       "rankBefore": 7
     },
     {
@@ -181,18 +181,6 @@
       "rankBefore": 14
     },
     {
-      "name": "kokommo87",
-      "skill": [
-        23.854884600313085,
-        1.6331563649199619
-      ],
-      "nbGames": 49,
-      "skillEvolution": 0,
-      "rankEvolution": 1,
-      "rankBefore": 16,
-      "rank": 5
-    },
-    {
       "name": "DeChatelet",
       "skill": [
         24.467796582924873,
@@ -200,9 +188,9 @@
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": 1,
+      "rankEvolution": 2,
       "rank": 3,
-      "rankBefore": 17
+      "rankBefore": 16
     },
     {
       "name": "salmanosor",
@@ -212,21 +200,9 @@
       ],
       "nbGames": 31,
       "skillEvolution": 0,
-      "rankEvolution": 1,
+      "rankEvolution": 2,
       "rank": 5,
-      "rankBefore": 18
-    },
-    {
-      "name": "coyotosore",
-      "skill": [
-        24.129907165474172,
-        1.8558203906295556
-      ],
-      "nbGames": 17,
-      "skillEvolution": -0.5040525871080561,
-      "rankEvolution": -3,
-      "rankBefore": 15,
-      "rank": 5
+      "rankBefore": 17
     },
     {
       "name": "greg_le_belge_86",
@@ -236,7 +212,7 @@
       ],
       "nbGames": 23,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 2,
       "rank": 3,
       "rankBefore": 19
     },
@@ -248,7 +224,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 2,
       "rank": 2,
       "rankBefore": 20
     },
@@ -260,9 +236,45 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 2,
       "rank": 2,
       "rankBefore": 21
+    },
+    {
+      "name": "coyotosore",
+      "skill": [
+        23.44256893061213,
+        1.8131941555684732
+      ],
+      "nbGames": 18,
+      "skillEvolution": -1.0635121167868533,
+      "rankEvolution": -5,
+      "rankBefore": 18,
+      "rank": 6
+    },
+    {
+      "name": "Zazima",
+      "skill": [
+        23.17621048080742,
+        1.7246727948314793
+      ],
+      "nbGames": 216,
+      "skillEvolution": 0.5575804942349798,
+      "rankEvolution": 4,
+      "rank": 4,
+      "rankBefore": 25
+    },
+    {
+      "name": "kokommo87",
+      "skill": [
+        22.866097693720796,
+        1.6406348661292356
+      ],
+      "nbGames": 50,
+      "skillEvolution": -1.0112224102201068,
+      "rankEvolution": -6,
+      "rankBefore": 15,
+      "rank": 7
     },
     {
       "name": "kartapusse",
@@ -272,7 +284,7 @@
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 22
     },
@@ -285,7 +297,7 @@
       "nbGames": 68,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 23
     },
     {
@@ -296,21 +308,9 @@
       ],
       "nbGames": 10,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 24
-    },
-    {
-      "name": "Zazima",
-      "skill": [
-        22.70140517481354,
-        1.75226452424518
-      ],
-      "nbGames": 215,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rank": 5,
-      "rankBefore": 25
     },
     {
       "name": "papydovah",
@@ -637,6 +637,18 @@
       "rankBefore": 52
     },
     {
+      "name": "LegendzQLF",
+      "skill": [
+        20.453937144652205,
+        3.7299980055803035
+      ],
+      "nbGames": 2,
+      "skillEvolution": 9.939738145167226,
+      "rankEvolution": 54,
+      "rankBefore": 107,
+      "rank": 5
+    },
+    {
       "name": "Emasculator",
       "skill": [
         16.25144132349421,
@@ -645,7 +657,7 @@
       "nbGames": 16,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 53
     },
     {
@@ -657,7 +669,7 @@
       "nbGames": 5,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 54
     },
     {
@@ -669,7 +681,7 @@
       "nbGames": 1,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 55
     },
     {
@@ -680,7 +692,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 56
     },
@@ -692,7 +704,7 @@
       ],
       "nbGames": 5,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 57
     },
@@ -705,7 +717,7 @@
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 58
     },
     {
@@ -716,7 +728,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 59,
       "rank": 4
     },
@@ -728,7 +740,7 @@
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 60
     },
@@ -740,7 +752,7 @@
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 61
     },
@@ -752,7 +764,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 62
     },
@@ -765,7 +777,7 @@
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 63
     },
     {
@@ -777,7 +789,7 @@
       "nbGames": 6,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 64
     },
     {
@@ -788,7 +800,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 65,
       "rank": 5
     },
@@ -800,7 +812,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 6,
       "rankBefore": 66
     },
@@ -812,7 +824,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 67
     },
@@ -824,7 +836,7 @@
       ],
       "nbGames": 14,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 68
     },
@@ -837,7 +849,7 @@
       "nbGames": 3,
       "skillEvolution": 0,
       "rank": 3,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 69
     },
     {
@@ -848,7 +860,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 70
     },
@@ -861,7 +873,7 @@
       "nbGames": 5,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 71
     },
     {
@@ -872,7 +884,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 72
     },
@@ -884,7 +896,7 @@
       ],
       "nbGames": 9,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 73,
       "rank": 7
     },
@@ -896,7 +908,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 74
     },
@@ -908,7 +920,7 @@
       ],
       "nbGames": 5,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 3,
       "rankBefore": 75
     },
@@ -920,7 +932,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 76
     },
@@ -932,7 +944,7 @@
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 77
     },
@@ -944,7 +956,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 78
     },
@@ -956,7 +968,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 79
     },
@@ -969,7 +981,7 @@
       "nbGames": 2,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 80
     },
     {
@@ -980,7 +992,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 81,
       "rank": 4
     },
@@ -992,7 +1004,7 @@
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 82
     },
@@ -1004,7 +1016,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 83
     },
@@ -1016,7 +1028,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 84
     },
@@ -1028,7 +1040,7 @@
       ],
       "nbGames": 6,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 2,
       "rankBefore": 85
     },
@@ -1040,7 +1052,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 3,
       "rankBefore": 86
     },
@@ -1052,7 +1064,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 87
     },
@@ -1064,7 +1076,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 88
     },
@@ -1076,7 +1088,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 89
     },
@@ -1088,7 +1100,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 90
     },
@@ -1100,7 +1112,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 6,
       "rankBefore": 91
     },
@@ -1113,7 +1125,7 @@
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 92
     },
     {
@@ -1124,7 +1136,7 @@
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 93
     },
@@ -1136,7 +1148,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 94
     },
@@ -1148,7 +1160,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 9,
       "rankBefore": 95
     },
@@ -1161,7 +1173,7 @@
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 96
     },
     {
@@ -1172,7 +1184,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 6,
       "rankBefore": 97
     },
@@ -1184,7 +1196,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 98
     },
@@ -1196,7 +1208,7 @@
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 6,
       "rankBefore": 99
     },
@@ -1208,7 +1220,7 @@
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 100
     },
@@ -1220,7 +1232,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 101
     },
@@ -1232,7 +1244,7 @@
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 6,
       "rankBefore": 102
     },
@@ -1244,7 +1256,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 103
     },
@@ -1256,7 +1268,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 104
     },
@@ -1268,7 +1280,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 105
     },
@@ -1280,21 +1292,9 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 7,
       "rankBefore": 106
-    },
-    {
-      "name": "LegendzQLF",
-      "skill": [
-        16.188013931115346,
-        5.621269649457093
-      ],
-      "nbGames": 1,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rankBefore": 107,
-      "rank": 7
     },
     {
       "name": "gorskakeris",
