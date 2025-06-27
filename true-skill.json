@@ -22,7 +22,7 @@
       "rank": 1,
       "skillEvolution": 1.0339632857840044,
       "rankEvolution": 1,
-      "rankBefore": 2
+      "rankBefore": 1
     },
     {
       "name": "tax0une",
@@ -34,18 +34,18 @@
       "rank": 1,
       "skillEvolution": 0,
       "rankEvolution": -1,
-      "rankBefore": 1
+      "rankBefore": 2
     },
     {
       "name": "FlooFlan",
       "skill": [
-        34.493685651872,
-        1.6816590166499794
+        35.127496869814365,
+        1.6953625747802081
       ],
-      "nbGames": 81,
-      "skillEvolution": 0.4646298808653846,
+      "nbGames": 82,
+      "skillEvolution": 1.0573304244170671,
       "rankEvolution": 0,
-      "rank": 2,
+      "rank": 1,
       "rankBefore": 3
     },
     {
@@ -63,36 +63,36 @@
     {
       "name": "lecithal_",
       "skill": [
-        32.33471412227427,
-        1.658134340013837
+        32.6867356446687,
+        1.6497631279816036
       ],
-      "nbGames": 40,
-      "skillEvolution": -0.6868813088411905,
+      "nbGames": 41,
+      "skillEvolution": -0.30974615035005826,
       "rankEvolution": 0,
-      "rank": 5,
+      "rank": 2,
       "rankBefore": 5
     },
     {
       "name": "pauloman182",
       "skill": [
-        30.786488064840093,
-        1.601573239360589
+        30.512888700992395,
+        1.5936965860185717
       ],
-      "rank": 3,
-      "nbGames": 1132,
-      "skillEvolution": 0.4546026709782147,
+      "rank": 4,
+      "nbGames": 1133,
+      "skillEvolution": 0.20463326715657004,
       "rankEvolution": 0,
       "rankBefore": 6
     },
     {
       "name": "RousseurAuMiel",
       "skill": [
-        29.709967481023966,
-        1.6290205368887627
+        29.978584910776704,
+        1.6181470663536943
       ],
-      "rank": 4,
-      "nbGames": 1164,
-      "skillEvolution": 0.21604843827281428,
+      "rank": 3,
+      "nbGames": 1165,
+      "skillEvolution": 0.5172862796307562,
       "rankEvolution": 0,
       "rankBefore": 7
     },
@@ -133,28 +133,16 @@
       "rank": 4
     },
     {
-      "name": "airmus23",
-      "skill": [
-        25.39287390166373,
-        1.6380524295924417
-      ],
-      "nbGames": 472,
-      "rank": 7,
-      "skillEvolution": -0.7643302913006238,
-      "rankEvolution": 0,
-      "rankBefore": 11
-    },
-    {
       "name": "Numb25",
       "skill": [
-        25.231185175874725,
-        1.5868171933827222
+        25.29924758296297,
+        1.5827469277898523
       ],
-      "nbGames": 34,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
+      "nbGames": 35,
+      "skillEvolution": 0.08027320386685588,
+      "rankEvolution": 1,
       "rankBefore": 12,
-      "rank": 7
+      "rank": 5
     },
     {
       "name": "kokomo87",
@@ -164,9 +152,21 @@
       ],
       "nbGames": 45,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 4,
       "rankBefore": 13
+    },
+    {
+      "name": "airmus23",
+      "skill": [
+        24.497885005773465,
+        1.6460888628828143
+      ],
+      "nbGames": 473,
+      "rank": 7,
+      "skillEvolution": -1.683428487062006,
+      "rankEvolution": -2,
+      "rankBefore": 11
     },
     {
       "name": "FLORA26",
@@ -205,18 +205,6 @@
       "rankBefore": 16
     },
     {
-      "name": "kokommo87",
-      "skill": [
-        23.64006080285164,
-        1.6286707251992039
-      ],
-      "nbGames": 69,
-      "skillEvolution": 0.15809905276794112,
-      "rankEvolution": 1,
-      "rankBefore": 18,
-      "rank": 6
-    },
-    {
       "name": "salmanosor",
       "skill": [
         23.893978212365166,
@@ -224,9 +212,21 @@
       ],
       "nbGames": 31,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 17
+      "rankBefore": 18
+    },
+    {
+      "name": "kokommo87",
+      "skill": [
+        23.50168174472929,
+        1.6228229084494226
+      ],
+      "nbGames": 70,
+      "skillEvolution": 0.03726344489493272,
+      "rankEvolution": 0,
+      "rankBefore": 17,
+      "rank": 6
     },
     {
       "name": "Kumiko_kmk",
