@@ -63,38 +63,26 @@
     {
       "name": "pauloman182",
       "skill": [
-        32.767901721808684,
-        1.6993667965287091
+        32.42885899553913,
+        1.6863011875097675
       ],
-      "rank": 1,
-      "nbGames": 1176,
-      "skillEvolution": 0.1016425815669777,
+      "rank": 2,
+      "nbGames": 1177,
+      "skillEvolution": -0.19820331764574917,
       "rankEvolution": 0,
       "rankBefore": 5
     },
     {
       "name": "lecithal_",
       "skill": [
-        30.55355476705422,
-        1.6447746803712278
+        29.618699853174917,
+        1.6538112593650245
       ],
-      "nbGames": 77,
-      "skillEvolution": 0,
+      "nbGames": 78,
+      "skillEvolution": -0.9619646508606934,
       "rankEvolution": 0,
-      "rank": 1,
+      "rank": 4,
       "rankBefore": 6
-    },
-    {
-      "name": "RousseurAuMiel",
-      "skill": [
-        28.55825615672981,
-        1.6395161289580498
-      ],
-      "rank": 3,
-      "nbGames": 1211,
-      "skillEvolution": -0.896477580614178,
-      "rankEvolution": 0,
-      "rankBefore": 7
     },
     {
       "name": "greglebelge86",
@@ -104,9 +92,21 @@
       ],
       "nbGames": 56,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 4,
       "rankBefore": 8
+    },
+    {
+      "name": "RousseurAuMiel",
+      "skill": [
+        28.41171338903021,
+        1.6360739024875275
+      ],
+      "rank": 3,
+      "nbGames": 1212,
+      "skillEvolution": -1.0326936689022084,
+      "rankEvolution": -1,
+      "rankBefore": 7
     },
     {
       "name": "gloriaetstephane",
@@ -121,6 +121,18 @@
       "rankBefore": 9
     },
     {
+      "name": "Zazima",
+      "skill": [
+        25.084611030663766,
+        1.6709309511193668
+      ],
+      "nbGames": 251,
+      "skillEvolution": 2.0333316006549005,
+      "rankEvolution": 11,
+      "rank": 1,
+      "rankBefore": 19
+    },
+    {
       "name": "kokomo87",
       "skill": [
         24.75825372582413,
@@ -128,7 +140,7 @@
       ],
       "nbGames": 45,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 10
     },
@@ -140,7 +152,7 @@
       ],
       "nbGames": 57,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 11,
       "rank": 5
     },
@@ -153,7 +165,7 @@
       "nbGames": 30,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 12
     },
     {
@@ -164,7 +176,7 @@
       ],
       "nbGames": 105,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 13,
       "rank": 3
     },
@@ -176,7 +188,7 @@
       ],
       "nbGames": 50,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 14,
       "rank": 6
     },
@@ -188,7 +200,7 @@
       ],
       "nbGames": 8,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 7,
       "rankBefore": 15
     },
@@ -201,7 +213,7 @@
       "nbGames": 478,
       "rank": 6,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 16
     },
     {
@@ -212,7 +224,7 @@
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 3,
       "rankBefore": 17
     },
@@ -224,21 +236,9 @@
       ],
       "nbGames": 31,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 18
-    },
-    {
-      "name": "Zazima",
-      "skill": [
-        23.639599300454456,
-        1.6717382593864758
-      ],
-      "nbGames": 250,
-      "skillEvolution": 0.5858979456442661,
-      "rankEvolution": 2,
-      "rank": 2,
-      "rankBefore": 21
     },
     {
       "name": "Kumiko_kmk",
@@ -250,7 +250,7 @@
       "skillEvolution": 0,
       "rankEvolution": -1,
       "rank": 2,
-      "rankBefore": 19
+      "rankBefore": 20
     },
     {
       "name": "Aelystos",
@@ -262,7 +262,7 @@
       "skillEvolution": 0,
       "rankEvolution": -1,
       "rank": 2,
-      "rankBefore": 20
+      "rankBefore": 21
     },
     {
       "name": "kartapusse",
