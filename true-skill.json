@@ -63,12 +63,12 @@
     {
       "name": "pauloman182",
       "skill": [
-        32.04246855612186,
-        1.8150550422060905
+        32.485767093708525,
+        1.8386009766751437
       ],
-      "rank": 2,
-      "nbGames": 1184,
-      "skillEvolution": -0.1517164251688179,
+      "rank": 1,
+      "nbGames": 1185,
+      "skillEvolution": 0.22094430901068662,
       "rankEvolution": 0,
       "rankBefore": 5
     },
@@ -87,14 +87,14 @@
     {
       "name": "RousseurAuMiel",
       "skill": [
-        29.46793249496298,
-        1.7926272970447947
+        29.370261546161707,
+        1.7995936628826958
       ],
-      "rank": 1,
-      "nbGames": 1219,
-      "skillEvolution": -0.0695513224915203,
+      "rank": 2,
+      "nbGames": 1220,
+      "skillEvolution": -0.18812136880649533,
       "rankEvolution": 0,
-      "rankBefore": 8
+      "rankBefore": 7
     },
     {
       "name": "greglebelge86",
@@ -106,7 +106,7 @@
       "skillEvolution": 0,
       "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 7
+      "rankBefore": 8
     },
     {
       "name": "gloriaetstephane",
@@ -154,7 +154,7 @@
       "rank": 2,
       "skillEvolution": 0,
       "rankEvolution": 1,
-      "rankBefore": 13
+      "rankBefore": 12
     },
     {
       "name": "Numb25",
@@ -165,20 +165,8 @@
       "nbGames": 50,
       "skillEvolution": 0,
       "rankEvolution": 1,
-      "rankBefore": 14,
+      "rankBefore": 13,
       "rank": 6
-    },
-    {
-      "name": "coyotosore",
-      "skill": [
-        24.43629411074477,
-        1.6958676538821946
-      ],
-      "nbGames": 58,
-      "skillEvolution": -0.3907013326528528,
-      "rankEvolution": -2,
-      "rankBefore": 12,
-      "rank": 3
     },
     {
       "name": "MrBru7os",
@@ -188,7 +176,7 @@
       ],
       "nbGames": 8,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 7,
       "rankBefore": 15
     },
@@ -201,8 +189,20 @@
       "nbGames": 480,
       "rank": 4,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rankBefore": 16
+    },
+    {
+      "name": "coyotosore",
+      "skill": [
+        24.13476472777555,
+        1.7347429664214151
+      ],
+      "nbGames": 59,
+      "skillEvolution": -0.8088566532397365,
+      "rankEvolution": -4,
+      "rankBefore": 14,
+      "rank": 3
     },
     {
       "name": "DeChatelet",
