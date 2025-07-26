@@ -63,12 +63,12 @@
     {
       "name": "pauloman182",
       "skill": [
-        32.275098100959866,
-        1.7782279431110302
+        32.57648447992755,
+        1.8191354671748046
       ],
       "rank": 1,
-      "nbGames": 1182,
-      "skillEvolution": 0.19139441695436687,
+      "nbGames": 1183,
+      "skillEvolution": 0.37005822373073016,
       "rankEvolution": 0,
       "rankBefore": 5
     },
@@ -85,18 +85,6 @@
       "rankBefore": 6
     },
     {
-      "name": "RousseurAuMiel",
-      "skill": [
-        28.938747560312414,
-        1.7379906334577846
-      ],
-      "rank": 2,
-      "nbGames": 1217,
-      "skillEvolution": -0.4348262663810516,
-      "rankEvolution": 0,
-      "rankBefore": 7
-    },
-    {
       "name": "greglebelge86",
       "skill": [
         28.709991564358308,
@@ -104,9 +92,21 @@
       ],
       "nbGames": 56,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 4,
       "rankBefore": 8
+    },
+    {
+      "name": "RousseurAuMiel",
+      "skill": [
+        28.650249197443724,
+        1.7816099939014622
+      ],
+      "rank": 2,
+      "nbGames": 1218,
+      "skillEvolution": -0.8541827105807762,
+      "rankEvolution": -1,
+      "rankBefore": 7
     },
     {
       "name": "gloriaetstephane",
