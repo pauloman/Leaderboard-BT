@@ -63,38 +63,38 @@
     {
       "name": "pauloman182",
       "skill": [
-        32.3258791876877,
-        1.7532662105448158
+        31.75437181651376,
+        1.7246172700987135
       ],
-      "rank": 2,
-      "nbGames": 1195,
-      "skillEvolution": -0.3799021683963204,
+      "rank": 3,
+      "nbGames": 1196,
+      "skillEvolution": -0.865462718231953,
       "rankEvolution": 0,
       "rankBefore": 5
     },
     {
-      "name": "lecithal_",
-      "skill": [
-        30.21402360949718,
-        1.6921182037283575
-      ],
-      "nbGames": 90,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rank": 1,
-      "rankBefore": 6
-    },
-    {
       "name": "RousseurAuMiel",
       "skill": [
-        29.744330991615882,
-        1.6968596769296844
+        29.974469463324514,
+        1.6789808938414508
       ],
-      "rank": 1,
-      "nbGames": 1229,
-      "skillEvolution": 0.7402515735518023,
-      "rankEvolution": 0,
+      "rank": 2,
+      "nbGames": 1230,
+      "skillEvolution": 1.0240263945251336,
+      "rankEvolution": 1,
       "rankBefore": 7
+    },
+    {
+      "name": "lecithal_",
+      "skill": [
+        29.53416677155323,
+        1.680118966493296
+      ],
+      "nbGames": 91,
+      "skillEvolution": -0.6438591262387661,
+      "rankEvolution": -1,
+      "rank": 4,
+      "rankBefore": 6
     },
     {
       "name": "greglebelge86",
@@ -121,6 +121,18 @@
       "rankBefore": 9
     },
     {
+      "name": "coyotosore",
+      "skill": [
+        26.002908945904252,
+        1.773625460312552
+      ],
+      "nbGames": 66,
+      "skillEvolution": 1.8765024589526433,
+      "rankEvolution": 8,
+      "rankBefore": 15,
+      "rank": 1
+    },
+    {
       "name": "kokomo87",
       "skill": [
         24.75825372582413,
@@ -128,7 +140,7 @@
       ],
       "nbGames": 45,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 10
     },
@@ -140,7 +152,7 @@
       ],
       "nbGames": 257,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 4,
       "rankBefore": 11
     },
@@ -153,7 +165,7 @@
       "nbGames": 30,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 12
     },
     {
@@ -164,7 +176,7 @@
       ],
       "nbGames": 50,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 13,
       "rank": 6
     },
@@ -176,21 +188,9 @@
       ],
       "nbGames": 8,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 7,
       "rankBefore": 14
-    },
-    {
-      "name": "coyotosore",
-      "skill": [
-        24.388592653314316,
-        1.7964970446769744
-      ],
-      "nbGames": 65,
-      "skillEvolution": 0.1935714132694386,
-      "rankEvolution": 3,
-      "rankBefore": 18,
-      "rank": 3
     },
     {
       "name": "airmus23",
@@ -226,19 +226,7 @@
       "skillEvolution": 0,
       "rankEvolution": 1,
       "rank": 5,
-      "rankBefore": 19
-    },
-    {
-      "name": "kokommo87",
-      "skill": [
-        23.64406019808106,
-        1.6916851304442806
-      ],
-      "nbGames": 112,
-      "skillEvolution": -0.6256471264139165,
-      "rankEvolution": -4,
-      "rankBefore": 15,
-      "rank": 4
+      "rankBefore": 18
     },
     {
       "name": "Kumiko_kmk",
@@ -248,7 +236,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 2,
       "rankBefore": 20
     },
@@ -260,9 +248,21 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": 1,
       "rank": 2,
       "rankBefore": 21
+    },
+    {
+      "name": "kokommo87",
+      "skill": [
+        23.19118947234226,
+        1.7124347870563548
+      ],
+      "nbGames": 113,
+      "skillEvolution": -1.1407668219889402,
+      "rankEvolution": -6,
+      "rankBefore": 19,
+      "rank": 5
     },
     {
       "name": "kartapusse",
