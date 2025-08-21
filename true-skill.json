@@ -10,7 +10,7 @@
       "rank": 1,
       "skillEvolution": 0.248854139291943,
       "rankEvolution": 1,
-      "rankBefore": 1
+      "rankBefore": 0
     },
     {
       "name": "Gtis",
@@ -22,7 +22,7 @@
       "skillEvolution": 0,
       "rankEvolution": -1,
       "rank": 1,
-      "rankBefore": 0
+      "rankBefore": 1
     },
     {
       "name": "tax0une",
@@ -63,36 +63,36 @@
     {
       "name": "lecithal_",
       "skill": [
-        32.11086605843877,
-        1.6637584720889762
+        31.546050464071598,
+        1.6620987799860623
       ],
-      "nbGames": 112,
-      "skillEvolution": 0.5009847557256464,
+      "nbGames": 113,
+      "skillEvolution": -0.058851762332785995,
       "rankEvolution": 0,
-      "rank": 2,
+      "rank": 3,
       "rankBefore": 5
     },
     {
       "name": "pauloman182",
       "skill": [
-        30.392288020286333,
-        1.6505861598212952
+        30.560051616597196,
+        1.6491344704333184
       ],
-      "rank": 4,
-      "nbGames": 1221,
-      "skillEvolution": -0.4318335313349415,
+      "rank": 2,
+      "nbGames": 1222,
+      "skillEvolution": -0.259714866860147,
       "rankEvolution": 0,
       "rankBefore": 6
     },
     {
       "name": "RousseurAuMiel",
       "skill": [
-        29.485526511128107,
-        1.64305925712156
+        30.315219568743903,
+        1.656417947339071
       ],
-      "rank": 3,
-      "nbGames": 1255,
-      "skillEvolution": 0.2901115430776855,
+      "rank": 1,
+      "nbGames": 1256,
+      "skillEvolution": 1.0797285300409456,
       "rankEvolution": 0,
       "rankBefore": 7
     },
@@ -123,13 +123,13 @@
     {
       "name": "Zazima",
       "skill": [
-        26.322458911801686,
-        1.6419030879158187
+        25.878715565944375,
+        1.6688138079143437
       ],
-      "nbGames": 267,
-      "skillEvolution": -0.5861796365080387,
+      "nbGames": 268,
+      "skillEvolution": -1.1106551423609226,
       "rankEvolution": 0,
-      "rank": 5,
+      "rank": 4,
       "rankBefore": 10
     },
     {
