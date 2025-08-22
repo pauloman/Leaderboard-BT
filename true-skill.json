@@ -3,13 +3,13 @@
     {
       "name": "PrinceYaku",
       "skill": [
-        42.13608193084412,
-        2.2251542844181174
+        42.31680719573634,
+        2.253480837055509
       ],
-      "nbGames": 775,
+      "nbGames": 776,
       "rank": 1,
-      "skillEvolution": 0.248854139291943,
-      "rankEvolution": 1,
+      "skillEvolution": 0.09574560698004575,
+      "rankEvolution": 0,
       "rankBefore": 0
     },
     {
@@ -20,7 +20,7 @@
       ],
       "nbGames": 26,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 1,
       "rankBefore": 1
     },
@@ -63,36 +63,36 @@
     {
       "name": "lecithal_",
       "skill": [
-        32.132573597058446,
-        1.6842491474940635
+        30.931249628048054,
+        1.683057157024467
       ],
-      "nbGames": 114,
-      "skillEvolution": 0.46122026813005945,
+      "nbGames": 115,
+      "skillEvolution": -1.1977479976016028,
       "rankEvolution": 0,
-      "rank": 1,
+      "rank": 5,
       "rankBefore": 5
-    },
-    {
-      "name": "RousseurAuMiel",
-      "skill": [
-        30.416919053826266,
-        1.6624625041350687
-      ],
-      "rank": 2,
-      "nbGames": 1257,
-      "skillEvolution": 1.1632943447353163,
-      "rankEvolution": 1,
-      "rankBefore": 7
     },
     {
       "name": "pauloman182",
       "skill": [
-        30.02929465674779,
-        1.6619283156447824
+        30.58103290106251,
+        1.6695489463668285
       ],
-      "rank": 3,
-      "nbGames": 1223,
-      "skillEvolution": -0.8288533623439456,
+      "rank": 2,
+      "nbGames": 1224,
+      "skillEvolution": 0.5288763521485826,
+      "rankEvolution": 1,
+      "rankBefore": 7
+    },
+    {
+      "name": "RousseurAuMiel",
+      "skill": [
+        29.942289035975467,
+        1.6530773599794901
+      ],
+      "rank": 4,
+      "nbGames": 1258,
+      "skillEvolution": -0.44647458538406326,
       "rankEvolution": -1,
       "rankBefore": 6
     },
@@ -127,7 +127,7 @@
         1.6688138079143437
       ],
       "nbGames": 268,
-      "skillEvolution": -1.1106551423609226,
+      "skillEvolution": 0,
       "rankEvolution": 0,
       "rank": 4,
       "rankBefore": 10
@@ -193,6 +193,18 @@
       "rank": 6
     },
     {
+      "name": "airmus23",
+      "skill": [
+        23.994192029920118,
+        1.6518654509718549
+      ],
+      "nbGames": 490,
+      "rank": 3,
+      "skillEvolution": 1.016328575916944,
+      "rankEvolution": 4,
+      "rankBefore": 20
+    },
+    {
       "name": "DeChatelet",
       "skill": [
         24.467796582924873,
@@ -200,7 +212,7 @@
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 3,
       "rankBefore": 16
     },
@@ -212,7 +224,7 @@
       ],
       "nbGames": 31,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 17
     },
@@ -224,7 +236,7 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 2,
       "rankBefore": 18
     },
@@ -236,21 +248,9 @@
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 2,
       "rankBefore": 19
-    },
-    {
-      "name": "airmus23",
-      "skill": [
-        23.0044830617924,
-        1.6607386535682647
-      ],
-      "nbGames": 489,
-      "rank": 7,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rankBefore": 20
     },
     {
       "name": "kartapusse",
@@ -477,8 +477,8 @@
       "nbGames": 13,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": 1,
-      "rankBefore": 40
+      "rankEvolution": 0,
+      "rankBefore": 39
     },
     {
       "name": "padmee_skz",
@@ -487,9 +487,9 @@
         1.7838007036582635
       ],
       "nbGames": 40,
-      "skillEvolution": -0.30801284186962796,
-      "rankEvolution": -1,
-      "rankBefore": 39,
+      "skillEvolution": 0,
+      "rankEvolution": 0,
+      "rankBefore": 40,
       "rank": 4
     },
     {
