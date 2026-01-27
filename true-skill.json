@@ -4,7 +4,7 @@
       "name": "PrinceYaku",
       "skill": [
         40.21118519488475,
-        2.3149051883633422
+        2.3380542402469757
       ],
       "nbGames": 826,
       "rank": 1,
@@ -15,11 +15,11 @@
     {
       "name": "lecithal_",
       "skill": [
-        37.71936384634234,
-        1.9107829290791931
+        37.97031665239596,
+        1.9380664023988177
       ],
-      "nbGames": 270,
-      "skillEvolution": 0.3316314752616485,
+      "nbGames": 271,
+      "skillEvolution": 0.16910238609474604,
       "rankEvolution": 0,
       "rank": 1,
       "rankBefore": 1
@@ -28,7 +28,7 @@
       "name": "FlooFlan",
       "skill": [
         34.28886346721005,
-        1.8706509107214901
+        1.889357419828705
       ],
       "nbGames": 154,
       "skillEvolution": 0,
@@ -37,50 +37,62 @@
       "rankBefore": 2
     },
     {
-      "name": "pauloman182",
+      "name": "airmus23",
       "skill": [
-        28.483013197764297,
-        1.6599730754734476
+        28.26290411847395,
+        1.661169294065219
       ],
-      "rank": 2,
-      "nbGames": 1416,
-      "skillEvolution": 1.1696719178882233,
+      "nbGames": 546,
+      "rank": 3,
+      "skillEvolution": 0.1321514168628859,
       "rankEvolution": 2,
       "rankBefore": 5
     },
     {
+      "name": "pauloman182",
+      "skill": [
+        28.11266776273689,
+        1.6517120063669102
+      ],
+      "rank": 4,
+      "nbGames": 1417,
+      "skillEvolution": -0.345562227707795,
+      "rankEvolution": -1,
+      "rankBefore": 3
+    },
+    {
       "name": "RousseurAuMiel",
       "skill": [
-        28.307344900005752,
-        1.625349484974223
+        27.46662488694921,
+        1.6371861225190427
       ],
-      "rank": 3,
-      "nbGames": 1454,
-      "skillEvolution": -0.030362574501165085,
-      "rankEvolution": 0,
+      "rank": 5,
+      "nbGames": 1455,
+      "skillEvolution": -0.8762299256910033,
+      "rankEvolution": -1,
       "rankBefore": 4
     },
     {
-      "name": "airmus23",
+      "name": "Zazima",
       "skill": [
-        28.166065765529464,
-        1.6729403153713513
+        26.302835533276305,
+        1.8118898514310209
       ],
-      "nbGames": 545,
-      "rank": 5,
-      "skillEvolution": -1.6875491132860319,
-      "rankEvolution": -2,
-      "rankBefore": 3
+      "nbGames": 351,
+      "skillEvolution": 1.2655804133980553,
+      "rankEvolution": 2,
+      "rank": 2,
+      "rankBefore": 8
     },
     {
       "name": "Numb25",
       "skill": [
         27.352415353732756,
-        2.24492511435892
+        2.2673743655025094
       ],
       "nbGames": 66,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rankBefore": 6,
       "rank": 4
     },
@@ -88,31 +100,19 @@
       "name": "garbitosore",
       "skill": [
         26.986160706163773,
-        2.34844867463209
+        2.371933161378411
       ],
       "nbGames": 13,
       "skillEvolution": 0,
-      "rankEvolution": 0,
+      "rankEvolution": -1,
       "rank": 5,
       "rankBefore": 7
-    },
-    {
-      "name": "Zazima",
-      "skill": [
-        25.131345350061533,
-        1.8432532614921155
-      ],
-      "nbGames": 350,
-      "skillEvolution": 0,
-      "rankEvolution": 0,
-      "rank": 5,
-      "rankBefore": 8
     },
     {
       "name": "kokommo87",
       "skill": [
         23.547922211438276,
-        1.840415725813137
+        1.8588198830712686
       ],
       "nbGames": 216,
       "skillEvolution": 0,
@@ -124,7 +124,7 @@
       "name": "flanbytosore",
       "skill": [
         25.29076924641253,
-        3.1745738047662333
+        3.2063195428138958
       ],
       "nbGames": 62,
       "skillEvolution": 0,
@@ -136,19 +136,19 @@
       "name": "Moonbeam_twitch",
       "skill": [
         20.983063941572603,
-        2.188895794678443
+        2.2107847526252273
       ],
       "nbGames": 58,
-      "skillEvolution": 2.046100518168849,
-      "rankEvolution": 2,
+      "skillEvolution": 0,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 13
+      "rankBefore": 11
     },
     {
       "name": "hemooxx_twitch",
       "skill": [
         24.361992549507395,
-        3.881976397380001
+        3.920796161353801
       ],
       "nbGames": 9,
       "skillEvolution": 0,
@@ -160,19 +160,19 @@
       "name": "ni3tte_",
       "skill": [
         22.074388383381965,
-        3.4847008609759653
+        3.519547869585725
       ],
       "nbGames": 3,
-      "skillEvolution": -3.7939340398704395,
-      "rankEvolution": -2,
+      "skillEvolution": 0,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 11
+      "rankBefore": 13
     },
     {
       "name": "peruelguerrero42",
       "skill": [
         15.699678678577133,
-        3.3853162988846606
+        3.419169461873507
       ],
       "nbGames": 7,
       "skillEvolution": 0,
@@ -184,7 +184,7 @@
       "name": "coyotosore",
       "skill": [
         26.33468899226764,
-        7.281002916366886
+        7.353812945530556
       ],
       "nbGames": 89,
       "skillEvolution": 0,
@@ -196,79 +196,79 @@
       "name": "WynyardTV",
       "skill": [
         19.906057991726644,
-        5.257082010479653
+        5.30965283058445
       ],
       "nbGames": 2,
-      "skillEvolution": 101.81946277110967,
-      "rankEvolution": 101,
+      "skillEvolution": 0,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 117
+      "rankBefore": 16
     },
     {
       "name": "huggyg",
       "skill": [
         32.05400273550997,
-        9.343087410270705
+        9.436518284373411
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 3,
-      "rankBefore": 16
+      "rankBefore": 17
     },
     {
       "name": "ovuvuevuevueenyetuenw",
       "skill": [
         20.943596464731517,
-        5.751894946973894
+        5.809413896443633
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 17
+      "rankBefore": 18
     },
     {
       "name": "usamien",
       "skill": [
         18.92809896958545,
-        5.168130346222262
+        5.219811649684485
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 18
+      "rankBefore": 19
     },
     {
       "name": "la_p0lymorph_0bsura",
       "skill": [
         19.804666203986397,
-        6.084161378799719
+        6.145002992587716
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 19,
+      "rankEvolution": 0,
+      "rankBefore": 20,
       "rank": 7
     },
     {
       "name": "tax0une",
       "skill": [
         38.558993377669296,
-        12.776161095595265
+        12.903922706551217
       ],
       "nbGames": 98,
       "rank": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 20
+      "rankEvolution": 0,
+      "rankBefore": 21
     },
     {
       "name": "renaud_be",
       "skill": [
         18.14505643678653,
-        6.596411585283791
+        6.662375701136629
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -280,307 +280,307 @@
       "name": "Gtis",
       "skill": [
         41.75704930876052,
-        14.502000006664236
+        14.647020006730878
       ],
       "nbGames": 26,
       "skillEvolution": 0,
-      "rankEvolution": -2,
+      "rankEvolution": 0,
       "rank": 1,
-      "rankBefore": 21
+      "rankBefore": 23
     },
     {
       "name": "padmee_skz",
       "skill": [
         15.198722463209727,
-        6.383936209576345
+        6.447775571672109
       ],
       "nbGames": 46,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 23,
+      "rankEvolution": 0,
+      "rankBefore": 24,
       "rank": 7
     },
     {
       "name": "QuYkKiLlL",
       "skill": [
         25.506797284536088,
-        10.261584834330742
+        10.36420068267405
       ],
       "nbGames": 7,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 24
+      "rankBefore": 25
     },
     {
       "name": "greglebelge86",
       "skill": [
         28.709991564358308,
-        11.471052596237143
+        11.585763122199515
       ],
       "nbGames": 56,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 25
+      "rankBefore": 26
     },
     {
       "name": "lucaslhx15",
       "skill": [
         19.250155355449905,
-        8.445715940824556
+        8.530173100232801
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 26
+      "rankBefore": 27
     },
     {
       "name": "kokomo87",
       "skill": [
         24.75825372582413,
-        10.767929868967563
+        10.875609167657238
       ],
       "nbGames": 45,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 27
+      "rankBefore": 28
     },
     {
       "name": "Star_Platinum77",
       "skill": [
         22.050108388781055,
-        9.918150045644479
+        10.017331546100923
       ],
       "nbGames": 69,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": -1,
-      "rankBefore": 28
+      "rankEvolution": 0,
+      "rankBefore": 29
     },
     {
       "name": "romain1818",
       "skill": [
         16.152768636523426,
-        8.531375555867903
+        8.616689311426583
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 29
+      "rankBefore": 30
     },
     {
       "name": "timmycolin",
       "skill": [
         13.493993464627703,
-        7.668729231469805
+        7.745416523784503
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 9,
-      "rankBefore": 30
+      "rankBefore": 31
     },
     {
       "name": "salmanosor",
       "skill": [
         23.893978212365166,
-        11.585939527290888
+        11.701798922563796
       ],
       "nbGames": 31,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 31
+      "rankBefore": 32
     },
     {
       "name": "FLORA26",
       "skill": [
         25.022867755389242,
-        12.225548943504116
+        12.347804432939157
       ],
       "nbGames": 30,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 32
+      "rankEvolution": 0,
+      "rankBefore": 33
     },
     {
       "name": "greg_le_belge_86",
       "skill": [
         23.372665286467615,
-        12.12395067653473
+        12.245190183300076
       ],
       "nbGames": 25,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 33
+      "rankBefore": 34
     },
     {
       "name": "DeChatelet",
       "skill": [
         24.467796582924873,
-        12.526434441158859
+        12.651698785570447
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 3,
-      "rankBefore": 34
-    },
-    {
-      "name": "oggy_crepe",
-      "skill": [
-        22.451330104669484,
-        11.961620594552857
-      ],
-      "nbGames": 21,
-      "skillEvolution": 0,
-      "rank": 1,
-      "rankEvolution": -1,
       "rankBefore": 35
     },
     {
       "name": "pandaman_88",
       "skill": [
         18.10203148454095,
-        10.512487951277015
+        10.617612830789785
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 1,
       "rank": 4,
+      "rankBefore": 37
+    },
+    {
+      "name": "oggy_crepe",
+      "skill": [
+        22.451330104669484,
+        12.081236800498385
+      ],
+      "nbGames": 21,
+      "skillEvolution": 0,
+      "rank": 1,
+      "rankEvolution": -1,
       "rankBefore": 36
     },
     {
       "name": "dj__adonis",
       "skill": [
         22.079332580771986,
-        12.716978900449654
+        12.84414868945415
       ],
       "nbGames": 14,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 37
+      "rankEvolution": 0,
+      "rankBefore": 38
     },
     {
       "name": "mbfcs2",
       "skill": [
         23.99737957586567,
-        14.41399968035388
+        14.558139677157419
       ],
       "nbGames": 10,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 38
+      "rankBefore": 39
     },
     {
       "name": "MrBru7os",
       "skill": [
         26.12042784537408,
-        15.147074810999612
+        15.29854555910961
       ],
       "nbGames": 8,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 39
+      "rankBefore": 40
     },
     {
       "name": "Atsuuhito",
       "skill": [
         20.859623659301782,
-        13.520681579925533
+        13.655888395724789
       ],
       "nbGames": 20,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 40
+      "rankBefore": 41
     },
     {
       "name": "lordgryffondor",
       "skill": [
         19.935357231795347,
-        13.255147681367122
+        13.387699158180792
       ],
       "nbGames": 24,
       "skillEvolution": 0,
       "rank": 3,
-      "rankEvolution": -1,
-      "rankBefore": 41
+      "rankEvolution": 0,
+      "rankBefore": 42
     },
     {
       "name": "lenemduportsalutchti",
       "skill": [
         19.650318431882187,
-        13.218071059002968
+        13.350251769592997
       ],
       "nbGames": 41,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": -1,
-      "rankBefore": 42
+      "rankEvolution": 0,
+      "rankBefore": 43
     },
     {
       "name": "OhTary",
       "skill": [
         20.99766823054674,
-        14.292054985108125
+        14.434975534959207
       ],
       "nbGames": 13,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 43
+      "rankEvolution": 0,
+      "rankBefore": 44
     },
     {
       "name": "gloriaetstephane",
       "skill": [
         30.45419697903679,
-        18.52233310392516
+        18.707556434964413
       ],
       "nbGames": 4,
       "rank": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 44
+      "rankEvolution": 0,
+      "rankBefore": 45
     },
     {
       "name": "LegendzQLF",
       "skill": [
         16.841878388835834,
-        14.172167663479868
+        14.313889340114667
       ],
       "nbGames": 9,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 45,
+      "rankEvolution": 0,
+      "rankBefore": 46,
       "rank": 6
     },
     {
       "name": "papydovah",
       "skill": [
         24.826908951250022,
-        16.90367973171349
+        17.07271652903062
       ],
       "nbGames": 6,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 3,
-      "rankBefore": 46
+      "rankBefore": 47
     },
     {
       "name": "AurelieLaBonasse",
       "skill": [
         21.787952349857292,
-        16.63433061510795
+        16.80067392125903
       ],
       "nbGames": 6,
       "skillEvolution": 0,
@@ -592,271 +592,271 @@
       "name": "kartapusse",
       "skill": [
         26.038210004474813,
-        18.064310259838006
+        18.244953362436387
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": -2,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 47
+      "rankBefore": 49
     },
     {
       "name": "Rectoplasmie",
       "skill": [
         17.99076884191358,
-        15.481355390461568
+        15.636168944366183
       ],
       "nbGames": 17,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 49
+      "rankEvolution": 0,
+      "rankBefore": 50
     },
     {
       "name": "john_denon",
       "skill": [
         20.785871610122957,
-        16.680550785911482
+        16.8473562937706
       ],
       "nbGames": 7,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 50
+      "rankBefore": 51
     },
     {
       "name": "caroleetalb",
       "skill": [
         25.672482366735437,
-        18.878281824158986
+        19.067064642400577
       ],
       "nbGames": 4,
       "rank": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 51
+      "rankEvolution": 0,
+      "rankBefore": 52
     },
     {
       "name": "vengaju",
       "skill": [
         18.240208148449618,
-        16.545395566899835
+        16.710849522568832
       ],
       "nbGames": 9,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 52,
+      "rankEvolution": 0,
+      "rankBefore": 53,
       "rank": 5
     },
     {
       "name": "Nini30000",
       "skill": [
         25.868908067473885,
-        19.564278937570162
+        19.759921726945862
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 53
+      "rankBefore": 54
     },
     {
       "name": "Emasculator",
       "skill": [
         16.25144132349421,
-        16.4381276839732
+        16.602508960812933
       ],
       "nbGames": 16,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": -1,
-      "rankBefore": 54
+      "rankEvolution": 0,
+      "rankBefore": 55
     },
     {
       "name": "onanagro",
       "skill": [
         24.031085556991076,
-        20.294294683420535
+        20.49723763025474
       ],
       "nbGames": 3,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": -1,
-      "rankBefore": 55
+      "rankEvolution": 0,
+      "rankBefore": 56
     },
     {
       "name": "djluigi_and_co",
       "skill": [
         23.919222798139767,
-        20.434092282445693
+        20.63843320527015
       ],
       "nbGames": 3,
       "skillEvolution": 0,
       "rank": 2,
-      "rankEvolution": -1,
-      "rankBefore": 56
+      "rankEvolution": 0,
+      "rankBefore": 57
     },
     {
       "name": "chlaure",
       "skill": [
         24.724639176148347,
-        21.32321059561201
+        21.53644270156813
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 57
+      "rankBefore": 58
     },
     {
       "name": "oo_freyja_oo",
       "skill": [
         17.44306381835631,
-        19.11838008509767
+        19.309563885948645
       ],
       "nbGames": 5,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": -1,
-      "rankBefore": 58
+      "rankEvolution": 0,
+      "rankBefore": 59
     },
     {
       "name": "pinkladie5300",
       "skill": [
         12.887111838736766,
-        17.718098271984307
+        17.89527925470415
       ],
       "nbGames": 14,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 59
+      "rankBefore": 60
     },
     {
       "name": "Daftpol_",
       "skill": [
         22.16638470253133,
-        21.312106827648375
+        21.525227895924857
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 60
-    },
-    {
-      "name": "k1_free_fight",
-      "skill": [
-        25.962919352241556,
-        22.608860820115165
-      ],
-      "nbGames": 3,
-      "skillEvolution": 0,
-      "rank": 5,
-      "rankEvolution": -1,
       "rankBefore": 61
     },
     {
       "name": "ASTartempion",
       "skill": [
         9.079155631497986,
-        16.9954635350785
+        17.165418170429284
       ],
       "nbGames": 14,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 62,
+      "rankEvolution": 1,
+      "rankBefore": 63,
       "rank": 4
+    },
+    {
+      "name": "k1_free_fight",
+      "skill": [
+        25.962919352241556,
+        22.834949428316317
+      ],
+      "nbGames": 3,
+      "skillEvolution": 0,
+      "rank": 5,
+      "rankEvolution": -1,
+      "rankBefore": 62
     },
     {
       "name": "MvPimousse",
       "skill": [
         17.913592260188466,
-        20.25295023313497
+        20.45547973546632
       ],
       "nbGames": 1,
       "rank": 5,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 63
-    },
-    {
-      "name": "loicdu72160",
-      "skill": [
-        23.064466644321246,
-        22.782398990305467
-      ],
-      "nbGames": 3,
-      "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rank": 4,
+      "rankEvolution": 0,
       "rankBefore": 64
     },
     {
       "name": "carli_vanille",
       "skill": [
         16.322880180534394,
-        20.557359335145193
+        20.762932928496646
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 1,
       "rank": 5,
+      "rankBefore": 66
+    },
+    {
+      "name": "loicdu72160",
+      "skill": [
+        23.064466644321246,
+        23.01022298020852
+      ],
+      "nbGames": 3,
+      "skillEvolution": 0,
+      "rankEvolution": -1,
+      "rank": 4,
       "rankBefore": 65
     },
     {
       "name": "MystaMoon",
       "skill": [
         19.170970175102607,
-        21.734657391963285
+        21.95200396588292
       ],
       "nbGames": 3,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": -1,
-      "rankBefore": 66
+      "rankEvolution": 0,
+      "rankBefore": 67
     },
     {
       "name": "heddyya",
       "skill": [
         20.11414781502491,
-        22.36211800022769
+        22.585739180229965
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 67
+      "rankBefore": 68
     },
     {
       "name": "ccompan42",
       "skill": [
         16.476735749124764,
-        21.83809748337017
+        22.056478458203873
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 68
+      "rankBefore": 69
     },
     {
       "name": "antoskins",
       "skill": [
         18.807194331988693,
-        22.84951903102627
+        23.07801422133653
       ],
       "nbGames": 5,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 69
+      "rankBefore": 70
     },
     {
       "name": "clooping59",
       "skill": [
         15.540126543425188,
-        21.90116993698959
+        22.120181636359487
       ],
       "nbGames": 6,
       "skillEvolution": 0,
@@ -868,69 +868,69 @@
       "name": "OnkelTag",
       "skill": [
         27.34944902625936,
-        25.83768204050842
+        26.0960588609135
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -2,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 70
+      "rankBefore": 72
     },
     {
       "name": "malfechaTV",
       "skill": [
         24.00516683854897,
-        24.898325582652674
+        25.1473088384792
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 3,
-      "rankBefore": 72
+      "rankBefore": 73
     },
     {
       "name": "ExxxonValdez",
       "skill": [
         27.399984751258206,
-        27.264707965797843
+        27.537355045455822
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 1,
-      "rankBefore": 73
+      "rankBefore": 74
     },
     {
       "name": "ptipanda81",
       "skill": [
         14.881786623133959,
-        23.226317191685744
+        23.458580363602604
       ],
       "nbGames": 5,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": -1,
-      "rankBefore": 74
-    },
-    {
-      "name": "Zeptana",
-      "skill": [
-        17.11824616310052,
-        24.065518962543113
-      ],
-      "nbGames": 3,
-      "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rank": 7,
+      "rankEvolution": 0,
       "rankBefore": 75
     },
     {
       "name": "yoanngameur28",
       "skill": [
         12.641392288970977,
-        22.57833969274415
+        22.80412308967159
       ],
       "nbGames": 1,
+      "skillEvolution": 0,
+      "rankEvolution": 1,
+      "rank": 7,
+      "rankBefore": 77
+    },
+    {
+      "name": "Zeptana",
+      "skill": [
+        17.11824616310052,
+        24.306174152168545
+      ],
+      "nbGames": 3,
       "skillEvolution": 0,
       "rankEvolution": -1,
       "rank": 7,
@@ -940,235 +940,235 @@
       "name": "Alexcendres",
       "skill": [
         17.668565633816762,
-        24.719461798473542
+        24.966656416458278
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 77
+      "rankBefore": 78
     },
     {
       "name": "oopsxful",
       "skill": [
         26.76290305640053,
-        28.01884918180073
+        28.299037673618738
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 78,
+      "rankEvolution": 0,
+      "rankBefore": 79,
       "rank": 4
     },
     {
       "name": "sir_ualav",
       "skill": [
         19.370698716294847,
-        26.38663791113622
+        26.650504290247582
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 79,
+      "rankEvolution": 0,
+      "rankBefore": 80,
       "rank": 4
     },
     {
       "name": "Aelystos",
       "skill": [
         32.2743574316883,
-        31.379642694816702
+        31.693439121764868
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 2,
-      "rankBefore": 80
+      "rankBefore": 81
     },
     {
       "name": "billized",
       "skill": [
         4.5999495423320145,
-        22.37035702394904
+        22.59406059418853
       ],
       "nbGames": 3,
       "skillEvolution": 0,
       "rankEvolution": 0,
       "rank": 8,
-      "rankBefore": 81
+      "rankBefore": 82
     },
     {
       "name": "Le_Grand_Alt",
       "skill": [
         21.290653950739664,
-        28.023853652253766
+        28.304092188776306
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -2,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 82
+      "rankBefore": 83
     },
     {
       "name": "le_vrai_m0i",
       "skill": [
         16.11232779464268,
-        26.649451573563557
+        26.915946089299194
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 83
+      "rankBefore": 84
     },
     {
       "name": "veganosor",
       "skill": [
         17.708947762790014,
-        27.198043413402967
+        27.470023847536996
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
-      "rankBefore": 84,
+      "rankEvolution": 0,
+      "rankBefore": 85,
       "rank": 5
     },
     {
       "name": "Kumiko_kmk",
       "skill": [
         33.00306765565023,
-        32.404560874681714
+        32.72860648342853
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 2,
-      "rankBefore": 85
+      "rankBefore": 86
     },
     {
       "name": "goldom50",
       "skill": [
         26.89754170020369,
-        30.40029056412894
+        30.70429346977023
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 86
+      "rankBefore": 87
     },
     {
       "name": "Anonyme_du_temps",
       "skill": [
         11.919259507178383,
-        26.00690326824922
+        26.266972300931712
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 87
+      "rankBefore": 88
     },
     {
       "name": "DaaviidDaav",
       "skill": [
         29.514448428396317,
-        32.67270381195719
+        32.99943085007676
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 2,
-      "rankBefore": 88
+      "rankBefore": 89
     },
     {
       "name": "debby_and_the_olympians",
       "skill": [
         21.443149411502272,
-        30.29910871109144
+        30.602099798202353
       ],
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 4,
-      "rankEvolution": -1,
-      "rankBefore": 89
+      "rankEvolution": 0,
+      "rankBefore": 90
     },
     {
       "name": "eciluu",
       "skill": [
         18.10745931797772,
-        29.612808675521993
+        29.908936762277214
       ],
       "nbGames": 3,
       "skillEvolution": 0,
       "rank": 3,
-      "rankEvolution": -1,
-      "rankBefore": 90
+      "rankEvolution": 0,
+      "rankBefore": 91
     },
     {
       "name": "Belltam",
       "skill": [
         18.129391808687874,
-        30.14063086663474
+        30.44203717530109
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 91
-    },
-    {
-      "name": "maryka_ratatata",
-      "skill": [
-        19.723812877399617,
-        31.151592680437066
-      ],
-      "nbGames": 1,
-      "skillEvolution": 0,
-      "rank": 5,
-      "rankEvolution": -1,
       "rankBefore": 92
     },
     {
       "name": "pjsaffray",
       "skill": [
         12.9595588376703,
-        28.91874140386729
+        29.207928817905962
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 1,
       "rank": 6,
+      "rankBefore": 94
+    },
+    {
+      "name": "maryka_ratatata",
+      "skill": [
+        19.723812877399617,
+        31.463108607241438
+      ],
+      "nbGames": 1,
+      "skillEvolution": 0,
+      "rank": 5,
+      "rankEvolution": -1,
       "rankBefore": 93
     },
     {
       "name": "ibrinator",
       "skill": [
         24.467748760113015,
-        33.16434469085089
+        33.4959881377594
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 3,
-      "rankBefore": 94
+      "rankBefore": 95
     },
     {
       "name": "lalalalaskd",
       "skill": [
         19.574256101715616,
-        32.398773054721644
+        32.72276078526886
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 95
+      "rankBefore": 96
     },
     {
       "name": "araj06",
       "skill": [
         16.44898402491457,
-        31.78473303154446
+        32.10258036185991
       ],
       "nbGames": 5,
       "skillEvolution": 0,
@@ -1180,247 +1180,247 @@
       "name": "carotteflamboyante",
       "skill": [
         17.567000885414075,
-        32.1575444897539
+        32.47911993465144
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -2,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 96
+      "rankBefore": 98
     },
     {
       "name": "linkyu_",
       "skill": [
         14.465103847830552,
-        31.342675103229
+        31.656101854261287
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 9,
-      "rankBefore": 98
+      "rankBefore": 99
     },
     {
       "name": "azuryk",
       "skill": [
         15.659264776074302,
-        32.45032922266145
+        32.77483251488807
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 99
+      "rankBefore": 100
     },
     {
       "name": "beuuhfa",
       "skill": [
         16.440449935189925,
-        32.73788609963983
+        33.06526496063623
       ],
       "nbGames": 4,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 100
+      "rankBefore": 101
     },
     {
       "name": "jo_sarda57",
       "skill": [
         15.084464572462679,
-        32.48319850978523
+        32.808030494883084
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 101
+      "rankBefore": 102
     },
     {
       "name": "anh_vu__",
       "skill": [
         20.55838378252578,
-        34.63780586542725
+        34.98418392408152
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 102
+      "rankBefore": 103
     },
     {
       "name": "Try_XD",
       "skill": [
         22.399838422434435,
-        35.28923871181348
+        35.642131098931614
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 103
+      "rankBefore": 104
     },
     {
       "name": "loufoc266",
       "skill": [
         13.267681581243847,
-        32.29405938366848
+        32.616999977505166
       ],
       "nbGames": 3,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 104
+      "rankBefore": 105
     },
     {
       "name": "Jambhon",
       "skill": [
         11.851896932997091,
-        32.153947573145146
+        32.475487048876595
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 105
+      "rankBefore": 106
     },
     {
       "name": "shallarion_jsn",
       "skill": [
         15.76820195529619,
-        34.66481235654451
+        35.01146048010995
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 106
+      "rankBefore": 107
     },
     {
       "name": "yoyos191",
       "skill": [
         16.88399775025503,
-        35.07525935177279
+        35.42601194529052
       ],
       "nbGames": 2,
       "skillEvolution": 0,
       "rank": 5,
-      "rankEvolution": -1,
-      "rankBefore": 107
+      "rankEvolution": 0,
+      "rankBefore": 108
     },
     {
       "name": "jokosquenelle",
       "skill": [
         17.23473397327415,
-        35.62848093712472
+        35.98476574649597
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 5,
-      "rankBefore": 108
+      "rankBefore": 109
     },
     {
       "name": "chef_romin0u",
       "skill": [
         13.366383488925452,
-        34.76061590862864
+        35.10822206771493
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 6,
-      "rankBefore": 109
+      "rankBefore": 110
     },
     {
       "name": "AliNoobette",
       "skill": [
         14.637254389147976,
-        36.38397581350004
+        36.74781557163504
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 9,
-      "rankBefore": 110
+      "rankBefore": 111
     },
     {
       "name": "justaboxinacage",
       "skill": [
         18.906795395971493,
-        38.215606038940734
+        38.59776209933014
       ],
       "nbGames": 2,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 4,
-      "rankBefore": 111
+      "rankBefore": 112
     },
     {
       "name": "snow73_",
       "skill": [
         15.658722780680037,
-        37.18397111803049
+        37.5558108292108
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 112
+      "rankBefore": 113
     },
     {
       "name": "anna_kondah",
       "skill": [
         15.397871493166416,
-        37.458916266417845
+        37.833505429082024
       ],
       "nbGames": 1,
       "skillEvolution": 0,
       "rank": 6,
-      "rankEvolution": -1,
-      "rankBefore": 113
+      "rankEvolution": 0,
+      "rankBefore": 114
     },
     {
       "name": "JINTO13",
       "skill": [
         16.420998877191387,
-        37.898478297127475
+        38.27746308009875
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 114
+      "rankBefore": 115
     },
     {
       "name": "emmanuellegueslot",
       "skill": [
         16.47378670224009,
-        38.178743166451085
+        38.5605305981156
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 7,
-      "rankBefore": 115
+      "rankBefore": 116
     },
     {
       "name": "djmarty57",
       "skill": [
         12.099092213834446,
-        36.880997504780254
+        37.24980747982806
       ],
       "nbGames": 1,
       "skillEvolution": 0,
-      "rankEvolution": -1,
+      "rankEvolution": 0,
       "rank": 8,
-      "rankBefore": 116
+      "rankBefore": 117
     },
     {
       "name": "ilovethenevadada",
       "skill": [
         16.277761409159446,
-        38.676332119374734
+        39.06309544056848
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1432,7 +1432,7 @@
       "name": "dVelvet",
       "skill": [
         14.610711272346732,
-        38.28383483284946
+        38.666673181177956
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1444,7 +1444,7 @@
       "name": "gorskakeris",
       "skill": [
         17.028824017059343,
-        39.49776496757883
+        39.89274261725462
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1456,7 +1456,7 @@
       "name": "nini30000",
       "skill": [
         18.261037682247036,
-        39.92337174744591
+        40.32260546492037
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1468,7 +1468,7 @@
       "name": "RideOnYourFish",
       "skill": [
         17.776951633642565,
-        40.01034049698423
+        40.41044390195407
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1480,7 +1480,7 @@
       "name": "m4ngo110",
       "skill": [
         17.79351532787152,
-        40.06802419127955
+        40.46870443319234
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1492,7 +1492,7 @@
       "name": "danalacigale_fkpl",
       "skill": [
         17.917808035046534,
-        40.11764614034967
+        40.518822601753165
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1504,7 +1504,7 @@
       "name": "jo_srd57",
       "skill": [
         18.431427631358407,
-        40.32081673742247
+        40.72402490479669
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1516,7 +1516,7 @@
       "name": "alisseas94",
       "skill": [
         19.111063714818364,
-        41.17654964344602
+        41.588315139880486
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1528,7 +1528,7 @@
       "name": "S4tha",
       "skill": [
         18.857825328104617,
-        41.140510213637775
+        41.55191531577415
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1540,7 +1540,7 @@
       "name": "clxmso",
       "skill": [
         18.72439474786567,
-        41.40524008824755
+        41.81929248913003
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1552,7 +1552,7 @@
       "name": "paat_mix",
       "skill": [
         19.303739033463856,
-        41.87773907718295
+        42.29651646795478
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1564,7 +1564,7 @@
       "name": "jorismry",
       "skill": [
         19.286869087946403,
-        41.94729400178134
+        42.36676694179915
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1576,7 +1576,7 @@
       "name": "yas592",
       "skill": [
         19.934711451464647,
-        42.70450403376437
+        43.13154907410202
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1588,7 +1588,7 @@
       "name": "k_raine44",
       "skill": [
         20.10501942906355,
-        42.91526371488397
+        43.34441635203281
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1600,7 +1600,7 @@
       "name": "s3robanxx",
       "skill": [
         20.529051159058287,
-        43.447468940432245
+        43.88194362983657
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1612,7 +1612,7 @@
       "name": "baad_kaarma",
       "skill": [
         20.54130734541143,
-        43.64853487385186
+        44.08502022259038
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1624,7 +1624,7 @@
       "name": "rivco_music",
       "skill": [
         20.899478288771064,
-        44.094091142483286
+        44.53503205390812
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1636,7 +1636,7 @@
       "name": "Nathan_france",
       "skill": [
         21.579194492802717,
-        45.06338225507208
+        45.5140160776228
       ],
       "nbGames": 1,
       "skillEvolution": 0,
@@ -1648,7 +1648,7 @@
       "name": "Yanis_May",
       "skill": [
         3.925214570851834,
-        84.6335226281174
+        85.47985785439857
       ],
       "nbGames": 3,
       "skillEvolution": 0,
